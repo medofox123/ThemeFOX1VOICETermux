@@ -11,25 +11,25 @@
 
 ### ☣️ Installation and Usage Guide
 ```
-$ apt-get update -y
+ apt-get update -y
 ```
 ```
-$ apt-get upgrade -y
+ apt-get upgrade -y
 ```
 ```
-$ pkg install mpv -y
+ pkg install mpv -y
 ```
 ```
-$ git clone https://github.com/medofox123/ThemeVOICETermux.git
+ git clone https://github.com/medofox123/ThemeVOICETermux.git
 ```
 ```
-$ cd ThemeVOICETermux
+ cd ThemeVOICETermux
 ```
 ```
-$ chmod +x *
+ chmod +x *
 ```
 ```
-$ sh install.sh
+ sh install.sh
 ```
 Now Type exit & restart Termux
 
