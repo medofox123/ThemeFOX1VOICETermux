@@ -20,10 +20,10 @@
  pkg install mpv -y
 ```
 ```
- git clone https://github.com/medofox123/ThemeVOICETermux.git
+ git clone https://github.com/medofox123/ThemeFOX1VOICETermux.git
 ```
 ```
- cd ThemeVOICETermux
+ cd ThemeFOX1VOICETermux
 ```
 ```
  chmod +x *
