@@ -3,7 +3,7 @@ command_not_found_handle() {
 }
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[爪乇ᗪㄖ¿千ㄖ乂\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 clear
-mpv /$HOME/Voice-logo-dr70/termux.mp3
+mpv /$HOME/ThemeVOICETermux/termux.mp3
 clear
 echo -e "Created By \e[? medohackerz"
 echo "----------------------------" | lolcat
