@@ -35,7 +35,7 @@ Now Type exit & restart Termux
 
 ### Update Tool
 ```
-$ rm -rf 'Voice-Welcome' && pkg install mpv -y && git clone https://github.com/OnlineHacKing/Voice-Welcome.git && cd Voice-Welcome && chmod +x * && sh install.sh && exit
+$ rm -rf 'ThemeFOX1VOICETermux' && pkg install mpv -y && git clone https://github.com/medofox123/ThemeFOX1VOICETermux.git && cd ThemeFOX1VOICETermux && chmod +x * && sh install.sh && exit
 ```
 
 
